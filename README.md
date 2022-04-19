@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I'm a Full-stack student studying at Helsinki Business College in Helsinki, Finland.
-- I use daily: .php, .js
 
 ### Skills
 - :cherry_blossom: JavaScript, PHP
