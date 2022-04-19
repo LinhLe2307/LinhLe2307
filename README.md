@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - :cherry_blossom: JavaScript, PHP
 - :four_leaf_clover: React, Symfony
 - :maple_leaf: HTML, CSS
-- :sunflower: MySQL, SQL
+- :sunflower: MariaSQL, SQL
