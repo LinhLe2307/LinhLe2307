@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I'm a Full-stack student studying at Helsinki Business College in Helsinki, Finland.
+- 🌱 I was a Full-stack student studying at Helsinki Business College in Helsinki, Finland.
+- I am currently working on JavaScript, TypeScript and ReactJS
 
 ### Skills
-- :cherry_blossom: JavaScript, PHP
-- :four_leaf_clover: React, Symfony
+- :cherry_blossom: JavaScript, TypeScript, Python
+- :four_leaf_clover: ReactJS, Redux, NodeJS
 - :maple_leaf: HTML, CSS
-- :sunflower: MariaSQL, SQL
+- :sunflower: SQL
