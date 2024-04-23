@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I was a Full-stack student studying at Helsinki Business College in Helsinki, Finland.
-- I am currently working on JavaScript, TypeScript and ReactJS
-
+- I am a Drupal Developer at Druid Oy, using PHP, Symfony and Drupal.
+- I am currently working on TypeScript, Redux, Redux Saga, ReactJS and NodeJS.
+- 
 ### Skills
 - :cherry_blossom: JavaScript, TypeScript, Python
 - :four_leaf_clover: ReactJS, Redux, NodeJS
